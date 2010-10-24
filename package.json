@@ -1,0 +1,11 @@
+{
+    "id": "jid0-br1b12cPQRPwXBDBTc4Nq4QfvPk",
+    "dependencies": [
+        "jetpack-core",
+        "addon-kit"
+    ],
+    "name": "library-search",
+    "description": "Displays a link on Amazon book pages to available editions in the Hampshire Digital Library",
+    "author": "Gareth Jones (http://garethj.com)",
+    "version": 0.1
+}
